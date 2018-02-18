@@ -1,0 +1,2 @@
+export const FETCH_ISSUES = 'FETCH_ISSUES';
+export const RECEIVE_ISSUES = 'RECEIVE_ISSUES';
